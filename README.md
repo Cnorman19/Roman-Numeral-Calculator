@@ -4,7 +4,7 @@ Run Command:
 
 	python RomanNumeralCalculator.py <input desired number to convert to roman numeral>
 
-Example Run Time:
+Usage:
 	
 	python RomanNumeralCalculator.py 5 
 
