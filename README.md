@@ -2,4 +2,4 @@
 
 Run Command:
 
-	python RomanNumeralCommand <input desired number to convert to roman numeral>
+	python RomanNumeralCalculator.py <input desired number to convert to roman numeral>
